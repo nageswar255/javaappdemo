@@ -65,7 +65,7 @@ This command will output the path to the currently installed JDK. For example, i
 export JAVA_HOME=$(/usr/libexec/java_home)
 
 
-  #docker commands
+  **#docker commands**
 
   Build the Docker Image :    docker build -t helloworldapp:1.0 .
 
