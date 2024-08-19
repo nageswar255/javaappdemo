@@ -18,7 +18,7 @@
 
 
 - **Directly from IDE**
-  <br/>```Right click on HelloWorldApplication.java and click on 'Run' option```
+  <br/>```Right click on helloworldapp.java and click on 'Run' option```
   <br/><br/>
 
 > **Note:** By default spring boot application starts on port number 8081. If port 8081 is occupied in your system then you can change the port number and updating the **server.port** property inside the **application.properties** file that is available inside the **src > main > resources** folder.
